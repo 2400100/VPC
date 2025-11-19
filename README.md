@@ -1,8 +1,8 @@
 # Virtual Private Cloud (VPC)
 
-### Name: NIKSHITHA G
+### Name: SUBIKSHA K
 
-### Register Number: 212223110031
+### Register Number: 212224040332
 
 ---
 
@@ -72,7 +72,8 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 
 ## OUTPUT
 
-![WhatsApp Image 2025-11-01 at 10 13 09_5fc143d9](https://github.com/user-attachments/assets/f919f27b-e02b-46fe-b8ed-051a17e87379)
+<img width="1694" height="755" alt="Screenshot 2025-11-19 102857" src="https://github.com/user-attachments/assets/af3450aa-bd18-4020-84a8-35e195eefcd2" />
+
 
 ## RESULT
 A **private cloud environment** was successfully created using the **AWS/Azure** platform.  
